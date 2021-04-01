@@ -1,0 +1,21 @@
+﻿<Window x:Class="DEX.EntertainmentModule"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:DEX"
+        mc:Ignorable="d"
+        Title="EntertainmentModule" Height="650.0" Width="1272.666">
+    <Grid>
+        <Label x:Name="GuessTheWord" Content="Guess the word" HorizontalAlignment="Left" Height="60" Margin="443,63,0,0" VerticalAlignment="Top" Width="258" FontFamily="Times New Roman" FontWeight="Bold" FontSize="36"/>
+        <Image x:Name="ImageToGuess" Visibility="Collapsed" HorizontalAlignment="Left" Height="201" Margin="173,213,0,0" VerticalAlignment="Top" Width="217"/>
+        <Label x:Name="TypeHere" Content="Type the word here" HorizontalAlignment="Left" Height="70" Margin="73,498,0,0" VerticalAlignment="Top" Width="205" FontFamily="Times New Roman" FontWeight="Bold" FontSize="20"/>
+        <Button x:Name="NextOrFinish" Content="NEXT" HorizontalAlignment="Left" Height="95" Margin="959,473,0,0" VerticalAlignment="Top" Width="213" FontFamily="Times New Roman" FontWeight="Bold" FontSize="48" Background="#FF79B8D8" Click="NextOrFinish_Click"/>
+        <TextBox x:Name="Description" Visibility="Collapsed" HorizontalAlignment="Left" Height="201" Margin="822,213,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="268" FontFamily="Times New Roman" FontSize="22" FontWeight="Bold" BorderBrush="{x:Null}"/>
+        <TextBox x:Name="TheWord" HorizontalAlignment="Left" Height="70" Margin="278,498,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="256" FontFamily="Times New Roman" FontWeight="Bold" FontSize="32"/>
+        <Image x:Name="CorrectOrWrong" HorizontalAlignment="Left" Height="94" Margin="539,498,0,0" VerticalAlignment="Top" Width="117"/>
+        <TextBox x:Name="CorrectAnswer" Visibility="Collapsed" BorderBrush="{x:Null}" HorizontalAlignment="Left" Height="46" Margin="687,503,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="162" FontFamily="Times New Roman" FontSize="36" FontWeight="Bold"/>
+        <Label x:Name="TheCorrectAnswerIs" Visibility="Collapsed" Content="    The correct answer is" HorizontalAlignment="Left" Height="38" Margin="656,465,0,0" VerticalAlignment="Top" Width="193" FontFamily="Times New Roman" FontWeight="Bold" FontSize="16"/>
+
+    </Grid>
+</Window>

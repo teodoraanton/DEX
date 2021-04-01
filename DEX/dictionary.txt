@@ -1,0 +1,13 @@
+1#porc#Mamifer domestic omnivor, cu capul de formă conică, cu botul alungit, cu corpul acoperit cu păr aspru, scurt și relativ rar, crescut pentru carnea și grăsimea lui#animal#file:///C:/Users/LAPTOP-HP-TEODORA/Desktop/PhotosDEX/porc.jpg
+2#caine#Animal de companie supranumit cel mai bun prieten al omului#animal#file:///C:/Users/LAPTOP-HP-TEODORA/Desktop/PhotosDEX/Dog.jpg
+3#para#Fruct, cu partea inferioară sferică, iar cu cea superioară mai îngustă, alungită#fruct#file:///C:/Users/LAPTOP-HP-TEODORA/Desktop/PhotosDEX/para.jpg
+4#banana#Fruct, având culoare galbenă, formă lunguiață, miez făinos, zaharos și aromat#fruct#file:///C:/Users/LAPTOP-HP-TEODORA/Desktop/PhotosDEX/banane.jpg
+5#mere#Fruct, de formă rotundă-turtită și de diferite culori#fruct#file:///C:/Users/LAPTOP-HP-TEODORA/Desktop/PhotosDEX/FirstImage.jpg
+6#blugi#Pantaloni din țesătură specială de bumbac#imbracaminte#file:///C:/Users/LAPTOP-HP-TEODORA/Desktop/PhotosDEX/blugi.jpg
+7#cafea#Băutură preparată din cafea prăjită și râșnită sau dintr-un surogat#bautura#file:///C:/Users/LAPTOP-HP-TEODORA/Desktop/PhotosDEX/cafea.jpg
+8#apa#Lichid incolor, fără gust și fără miros, compus hidrogenat al oxigenului, care formează unul dintre învelișurile Pământului#bautura#file:///C:/Users/LAPTOP-HP-TEODORA/Desktop/PhotosDEX/apa.jpg
+9#lapte#Lichid alb-gălbui cu gust dulceag, foarte hrănitor, secretat de glandele mamare ale femelelor mamiferelor#bautura#file:///C:/Users/LAPTOP-HP-TEODORA/Desktop/PhotosDEX/lapte.jpg
+10#biscuiti#Produs alimentar bine deshidratat prin coacerea unui aluat de prăjitură, tăiat în diferite forme#mancare#file:///C:/Users/LAPTOP-HP-TEODORA/Desktop/PhotosDEX/biscuiti.jpg
+11#hanorac#Haină scurtă confecționată din pânză deasă, de obicei impermeabilă, și prevăzută cu glugă, folosită în anumite competiții sportive sau în excursii#imbracaminte#file:///C:/Users/LAPTOP-HP-TEODORA/Desktop/PhotosDEX/hanorac.jpg
+12#pisica#Mamifer domestic carnivor din familia felidelor, cu corpul suplu, acoperit cu blană deasă și moale de diferite culori#animal#C:\Users\LAPTOP-HP-TEODORA\Desktop\PhotosDEX\cat.jpg
+13#paine#hkhk#mancare#C:\Users\LAPTOP-HP-TEODORA\Desktop\PhotosDEX\FirstImage.jpg

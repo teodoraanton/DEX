@@ -1,0 +1,16 @@
+﻿<Window x:Class="DEX.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:DEX"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="675.55">
+    <Grid>
+        <Button x:Name="Administrative" Content="ADMINISTRATIVE MODULE" Margin="0,104,0.333,0" VerticalAlignment="Top" Height="116" FontFamily="Times New Roman" FontSize="30" FontWeight="Bold" Click="Administrative_Click"/>
+        <Button x:Name="WordSearch" Content="WORD SEARCH MODULE" Margin="0,302,0.333,0" VerticalAlignment="Top" Height="116" FontFamily="Times New Roman" FontSize="30" FontWeight="Bold" Click="WordSearch_Click"/>
+        <Button x:Name="Exit" Content="EXIT" Margin="307,10,314.333,0" VerticalAlignment="Top" Height="49" FontFamily="Wide Latin" FontWeight="Bold" FontStyle="Italic" Background="#FF4A789B" FontSize="20" Click="Exit_Click"/>
+        <Button x:Name="Entertainment" Content="ENTERTAINMENT MODULE" Margin="0,493,0.333,0" VerticalAlignment="Top" Height="116" FontFamily="Times New Roman" FontWeight="Bold" FontSize="30" Click="Entertainment_Click"/>
+
+    </Grid>
+</Window>
